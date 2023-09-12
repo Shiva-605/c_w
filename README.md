@@ -14,7 +14,7 @@ Welcome to the Crop and Weed Detection repository! This open-source project is d
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yashwanthreddy28/upskillcampus
+   git clone https://github.com/NIKHIL2232/upskillcampus
 
 2. Navigate to the project directory:
    ```bash
@@ -35,15 +35,15 @@ Welcome to the Crop and Weed Detection repository! This open-source project is d
 ### Running the Project
 To run this project, follow these steps:
 1. **Generate Dataset Files**:
-   - First, you need to generate the dataset files `X.npy` and `Y.npy` by running the [TrainDataSet](https://github.com/yashwanthreddy28/upskillcampus/blob/main/TrainDataSet.py) script.
+   - First, you need to generate the dataset files `X.npy` and `Y.npy` by running the [TrainDataSet](https://github.com/NIKHIL2232/upskillcampus/blob/main/TrainDataSet.py) script.
 2. **Run CropAndWeedDetection.py**:
-   - After generating the dataset files, you can run the [CropAndWeedDetection](https://github.com/yashwanthreddy28/upskillcampus/blob/main/CropAndWeedDetection.py) script to perform further analysis.
+   - After generating the dataset files, you can run the [CropAndWeedDetection](https://github.com/NIKHIL2232/upskillcampus/blob/main/CropAndWeedDetection.py) script to perform further analysis.
 
 ### Contribution Guidelines
 We welcome contributions from the community! Whether you're interested in improving our algorithms, adding new features, or fixing bugs, please read our Contribution Guidelines to get started.
 
 ### Documentation
-For in-depth information, visit our Documentation [CropAndWeedDetection_Yashwanth_USC_UCT](https://github.com/yashwanthreddy28/upskillcampus/blob/main/CropAndWeedDetection_Yashwanth_USC_UCT.pdf), where you'll find detailed explanations and more.
+For in-depth information, visit our Documentation [CropAndWeedDetection_Nikhil_USC_UCT](https://github.com/NIKHIL2232/upskillcampus/blob/main/CropAndWeedDetection_Nikhil_USC_UCT.pdf), where you'll find detailed explanations and more.
 
 ### License
 This project is licensed under the MIT License, which means you can use it for personal or commercial purposes, modify it, and contribute back to the project. See the LICENSE file for details.
