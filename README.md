@@ -14,7 +14,7 @@ Welcome to the Crop and Weed Detection repository! This open-source project is d
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yashwanthreddy28/crop-weed-detection.git
+   git clone https://github.com/yashwanthreddy28/upskillcampus
 
 2. Navigate to the project directory:
    ```bash
