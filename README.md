@@ -18,7 +18,7 @@ Welcome to the Crop and Weed Detection repository! This open-source project is d
 
 2. Navigate to the project directory:
    ```bash
-    cd crop-weed-detection
+    cd upskillcampus
    
 3. Install the project dependencies using pip:
    ```bash
