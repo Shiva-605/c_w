@@ -26,10 +26,11 @@ Welcome to the Crop and Weed Detection repository! This open-source project is d
 
 ### Project Structure
 - **dataset/:** Contains the datasets of crops and weeds for the crop and weed detection models.
+- **test/:** Contains the images of crops and weeds for Testing or Prediction.
 - **requirements.txt:** Contains the required libraries to download.
-- **train.py:** Contains the code to create X.npy and Y.npy files.
-- **SVM_CNN.py:** Contains the actual code to predict the crop or weed.
-- **report/:** Documentation for the project.
+- **TrainDataSet.py:** Contains the code to create X.npy and Y.npy files.
+- **CropAndWeedDetection.py:** Contains the actual code to predict the crop or weed.
+- **CropAndWeedDetection_Yashwanth_USC_UCT.pdf:** Documentation for the project.
 
 ### Running the Project
 To run this project, follow these steps:
