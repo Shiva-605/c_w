@@ -1,2 +1,2 @@
-python SVM_CNN.py
+python CropAndWeedDetection.py
 pause
