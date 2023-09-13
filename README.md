@@ -50,7 +50,8 @@ For in-depth information, visit our Documentation [CropAndWeedDetection_Nikhil_U
 This project is licensed under the MIT License, which means you can use it for personal or commercial purposes, modify it, and contribute back to the project. See the LICENSE file for details.
 
 ### Support
-If you have any questions, encounter issues, or want to collaborate, please open an Issue or reach out to us at yashwanthr946@gmail.com.
+If you have any questions, encounter issues, or want to collaborate, please open an Issue or reach out to us at yashwanthr946@gmail.com,nikhilvamshigoud@gmail.com,bandelashiva605@gmail.com,lagishettyakash06@gmail.com.
+
 ## Team Members
 1. **Yashwanth Reddy** - [GitHub](https://github.com/yashwanthreddy28) - yashwanthr946@gmail.com
 2. **Bandela Shiva** -[GitHub](https://github.com/Shiva-605/c_w) - bandelashiva605@gmail.com
