@@ -52,7 +52,8 @@ This project is licensed under the MIT License, which means you can use it for p
 If you have any questions, encounter issues, or want to collaborate, please open an Issue or reach out to us at yashwanthr946@gmail.com.
 ## Team Members
 1. **Yashwanth Reddy** - [GitHub](https://github.com/yashwanthreddy28) - yashwanthr946@gmail.com
-2. **Akash Lagishetty** - [GitHub](https://github.com/AkashLagishetty) - lagishettyakash06@gmail.com
-3. **Nikhil Goud** - [GitHub](https://github.com/NIKHIL2232) - nikhilvamshigoud@gmail.com
+2. **Bandela Shiva** -[GitHub](https://github.com/Shiva-605/c_w) - bandelashiva605@gmail.com
+3. **Akash Lagishetty** - [GitHub](https://github.com/AkashLagishetty) - lagishettyakash06@gmail.com
+4. **Nikhil Goud** - [GitHub](https://github.com/NIKHIL2232) - nikhilvamshigoud@gmail.com
 
 Join us in revolutionizing agriculture through cutting-edge technology! Together, we can make farming more efficient and sustainable.
