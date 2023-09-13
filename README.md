@@ -14,11 +14,12 @@ Welcome to the Crop and Weed Detection repository! This open-source project is d
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/NIKHIL2232/upskillcampus
+   
+   git clone https://github.com/Shiva-605/c_w
 
 2. Navigate to the project directory:
    ```bash
-    cd upskillcampus
+    cd c_w
    
 3. Install the project dependencies using pip:
    ```bash
